@@ -1,0 +1,13 @@
+conditionals.sh
+.git
+..
+loops.sh
+redir_to_file.sh
+inputs.sh
+files
+comments.sh
+read_file.sh
+bash.sh
+.
+doc_delimiter.sh
+output.sh
