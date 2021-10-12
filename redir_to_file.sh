@@ -1,4 +1,4 @@
-#! bin/bash
+#! /bin/bash
 
 mkdir files
 echo "I will be in another file soon" > ./files/file.txt
